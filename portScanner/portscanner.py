@@ -9,7 +9,7 @@ if len(sys.argv)==2:
 		
 else:
 	print("Invalid arguments")
-	print("Syntax: python3 portscanner.py 192.168.202.43")
+	print("Syntax: python3 portscanner.py 192.168.xx.xx")
 	
 #Banner
 
