@@ -1,4 +1,5 @@
 #!/bin/bash
+## Author: V1N4Y - White$Devil
 
 import socket
 import sys
